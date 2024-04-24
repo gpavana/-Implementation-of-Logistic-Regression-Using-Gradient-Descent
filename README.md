@@ -74,6 +74,7 @@ print("Predicted Result:",y_prednew)
 - ACCURACY,ACTUAL AND PREDICTED VALUES:
 ![image](https://github.com/gpavana/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118787343/95ce615b-0495-4f4c-82ae-68f40c0f2c9f)
 - PREDICTED RESULT:
+
 ![image](https://github.com/gpavana/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118787343/3a9e0840-5f33-4a62-b1b0-6fc52d5e86e7)
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
