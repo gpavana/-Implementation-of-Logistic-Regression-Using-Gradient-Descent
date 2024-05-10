@@ -1,13 +1,14 @@
-# Implementation-of-Logistic-Regression-Using-Gradient-Descent
+## Implementation-of-Logistic-Regression-Using-Gradient-Descent
+### DATE:05.03.2024
 
-## AIM:
+### AIM:
 To write a program to implement the the Logistic Regression Using Gradient Descent.
 
-## Equipments Required:
+### Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
-## Algorithm
+### Algorithm
 1. Import the necessary python packages
 2. Read the dataset.
 3. Define X and Y array.
@@ -15,7 +16,7 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 5. Define a function to plot the decision boundary and predict the Regression value
 
 
-## Program:
+### Program:
 ```
 Program to implement the the Logistic Regression Using Gradient Descent.
 Developed by: PAVANA.G
@@ -70,11 +71,11 @@ xnew=np.array([[0,87,0,95,0,2,78,2,0,0,1,0]])
 y_prednew=predict(theta,xnew)
 print("Predicted Result:",y_prednew)
 ```
-## Output:
-## ACCURACY,ACTUAL AND PREDICTED VALUES:
+### Output:
+### ACCURACY,ACTUAL AND PREDICTED VALUES:
 ![image](https://github.com/gpavana/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118787343/95ce615b-0495-4f4c-82ae-68f40c0f2c9f)
-## PREDICTED RESULT:
+### PREDICTED RESULT:
 ![image](https://github.com/gpavana/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118787343/3a9e0840-5f33-4a62-b1b0-6fc52d5e86e7)
-## Result:
+### Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
 
